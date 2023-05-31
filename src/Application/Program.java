@@ -1,6 +1,6 @@
 package Application;
 
-import BoardGame.Position;
+import BoardGame.Board;
 
 import java.util.Scanner;
 
@@ -10,8 +10,7 @@ public class Program {
 
         Scanner sc = new Scanner(System.in);
 
-        Position position = new Position(3, 5);
-        System.out.println(position);
+        Board board = new Board(8, 8);
 
         sc.close();
 
