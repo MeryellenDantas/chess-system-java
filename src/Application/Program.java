@@ -1,9 +1,7 @@
 package Application;
 
-import BoardGame.Board;
 import Chess.ChessMatch;
 
-import java.util.Scanner;
 
 public class Program {
 
