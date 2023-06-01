@@ -1,7 +1,6 @@
 package Chess;
 
 import BoardGame.Board;
-import BoardGame.Position;
 import Chess.pieces.King;
 import Chess.pieces.Rook;
 
